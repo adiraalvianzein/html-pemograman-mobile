@@ -31,8 +31,7 @@ Penjelasan dari masing masing yang sudah di buat :
   - `type="image/x-icon"`: Menyatakan bahwa tipe file gambar yang digunakan adalah ikon. Meskipun gambar berformat `.png`, browser masih dapat memprosesnya sebagai ikon.
 
 ---
-![https://github.com/Halfirzzha/Lab-1-Web](assets/img/Header.png)
-![https://github.com/Halfirzzha/Lab-1-Web](assets/img/Codingan.png)
+
 
 2. Ini Adalah Penjelasan Dari Kode Selanjutnya Sesudah Header :
 
@@ -133,8 +132,6 @@ Penjelasan dari masing masing yang sudah di buat :
 - **`</html>`**: Menandakan akhir dari seluruh dokumen HTML.
 
 ---
-![https://github.com/Halfirzzha/Lab-1-Web](<assets/img/Codingan Selanjutnya.png>)
-![https://github.com/Halfirzzha/Lab-1-Web](<assets/img/Halaman Website.png>)
 
 ---
 
